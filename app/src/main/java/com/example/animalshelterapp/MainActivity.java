@@ -15,6 +15,9 @@ import com.example.animalshelterapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     // Новый комментарий
+    // Новый комментарий
+    // Новый комментарий
+
     private AppBarConfiguration mAppBarConfiguration;
 private ActivityMainBinding binding;
 
